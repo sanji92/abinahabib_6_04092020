@@ -13,7 +13,7 @@ const app = express();
 
 mongoose
   .connect(
-    "mongodb+srv://olive:ettom@cluster0.pqztm.mongodb.net/<backend>?retryWrites=true&w=majority",
+    "mongodb+srv://!!!:!!!!@cluster0.pqztm.mongodb.net/<backend>?retryWrites=true&w=majority",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,

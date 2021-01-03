@@ -61,7 +61,7 @@ exports.getOneSauce = (req, res, next) => {
     .catch((error) => res.status(404).json({ error }));
 };
 
-// toutes les sauce
+// toutes les sauces
 
 exports.getAllSauce = (req, res, next) => {
   Sauce.find()
