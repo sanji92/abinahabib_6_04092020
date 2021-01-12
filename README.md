@@ -14,4 +14,4 @@ Development server
 Démarrer ng serve depuis le dossier frontend pour avoir accès au serveur de développement. 
 Rendez-vous sur http://localhost:4200/. L'application va se recharger automatiquement si vous modifiez un fichier source.
 
-Démarrer npm start depuis le dossier backend.
+Démarrer nodemon server depuis le dossier backend.
