@@ -1,7 +1,8 @@
 
 # abinahabib_6_04092020
 
-Piquante
+Sopekocko
+
 Le projet a été généré avec Angular CLI version 7.0.2.
 
 Pour faire fonctionner le projet, vous devez installer node-sass à part.
