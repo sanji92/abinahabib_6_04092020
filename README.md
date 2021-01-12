@@ -11,7 +11,7 @@ Installation
 npm install dans le dossier frontend & dans le dossier backend.
 
 Development server
-Démarrer ng serve depuis le dossier frontend pour avoir accès au serveur de développement. 
+Démarrer npm start depuis le dossier frontend pour avoir accès au serveur de développement. 
 Rendez-vous sur http://localhost:4200/. L'application va se recharger automatiquement si vous modifiez un fichier source.
 
 Démarrer nodemon server depuis le dossier backend.
